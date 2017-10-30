@@ -11,5 +11,5 @@
 
 - yarn server:dev
 - yarn client:dev
-- yarn ts
+- tsc -w 
 - yarn start:dev
