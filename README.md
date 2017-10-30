@@ -5,7 +5,7 @@
 ## Start this project
 
 - yarn start:dev
-- open localhost:9090 in your browser
+- open localhost:9090/home in your browser
 
 ## develop this project 
 
